@@ -1,0 +1,26 @@
+#banner-container{
+  margin:0;
+  padding:0;
+  height: 100 px;
+  display: block;
+}
+
+#banner-image{
+  width: 100%;
+  height: 100%;
+  
+}
+
+#navbar{
+  height: 200px;
+}
+
+#main{
+  text-align: center;
+}
+
+.image-collection{
+  height: 100 px;
+  width: 100px;
+  object-fit: cover;
+}
